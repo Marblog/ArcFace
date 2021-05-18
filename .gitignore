@@ -1,0 +1,6 @@
+/.idea
+*.iml
+/ai-welcome-cloud/target/
+
+# 项目排除路径
+/target/
